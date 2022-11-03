@@ -78,7 +78,13 @@ sigmoid 커널은 아래 그림으로 더 직관적으로 이해할 수 있습�
 
 
 Reference1 : https://www.kaggle.com/code/prashant111/svm-classifier-tutorial/notebook#Support-Vector-Machines-Classifier-Tutorial-with-Python
+
+
+
 Reference2 : https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+
+
 Reference3 : https://datascienceschool.net/03%20machine%20learning/09.01%20%EB%B6%84%EB%A5%98%EC%9A%A9%20%EC%98%88%EC%A0%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0.html
 
 
